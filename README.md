@@ -16,7 +16,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 # Technology used:
 •	Postman
 •	Newman
-Prerequisite:
+# Prerequisite:
 •	Node Js
 •	Newman
 •	Newman Html Report Library

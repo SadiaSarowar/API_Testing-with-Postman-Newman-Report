@@ -27,6 +27,12 @@ This project demonstrates API testing using Postman, providing a collection of t
    https://www.postman.com/downloads/  
 3.	Clone the repository:
 
+# Installation
+Postman: If you haven't already, download and install Postman.
+Clone the repository:
+ git clone https://github.com/Zafrin-Chowdhury-Joya/Collection_Booking-using-Postman-with-Newman-Report.git
+
+
    https://github.com/SadiaSarowar/API_Testing-with-Postman-Newman-Report/tree/main
 
 

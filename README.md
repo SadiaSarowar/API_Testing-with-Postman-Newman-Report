@@ -22,6 +22,11 @@ This project demonstrates API testing using Postman, providing a collection of t
 
 •	Newman
 # Installation
+1.	Postman: If you haven't already, download and install Postman
+   
+2.	Clone the repository:
+https://github.com/SadiaSarowar/API_Testing-with-Postman-Newman-Report/tree/main
+# Installation
 1.	Postman: If you haven't already, download and install Postman.
 2.	Clone the repository:
    

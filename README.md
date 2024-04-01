@@ -21,6 +21,11 @@ This project demonstrates API testing using Postman, providing a collection of t
 •	Node Js
 
 •	Newman
+# Installation
+1.	Postman: If you haven't already, download and install Postman.
+2.	Clone the repository:
+   
+
 
 •	Newman Html Report Library
 

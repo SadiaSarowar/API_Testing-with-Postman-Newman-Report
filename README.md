@@ -15,10 +15,13 @@ This project demonstrates API testing using Postman, providing a collection of t
 • https://documenter.getpostman.com/view/33738565/2sA35HWfg4
 # Technology used:
 •	Postman
+
 •	Newman
 # Prerequisite:
 •	Node Js
+
 •	Newman
+
 •	Newman Html Report Library
 
 

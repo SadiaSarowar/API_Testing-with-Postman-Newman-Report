@@ -1,5 +1,6 @@
+# API_Testing-with-Postman-Newman-Report
 This project demonstrates API testing using Postman, providing a collection of tests to validate various endpoints of the API.
-Features
+# Features
 •	Tests for GET, POST, PUT, DELETE requests
 •	Collection of tests covering different API endpoints
 •	Environment setup for easy switching between environments
@@ -7,4 +8,4 @@ Features
 •	Test scripts for assertions and validations
 
 
-# API_Testing-with-Postman-Newman-Report
+

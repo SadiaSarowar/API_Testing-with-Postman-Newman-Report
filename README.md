@@ -11,21 +11,22 @@ This project demonstrates API testing using Postman, providing a collection of t
 
 # API Documentation
 • https://documenter.getpostman.com/view/33738565/2sA35HWfg4
-# Technology used:
-•	Postman
+### **Technology used:**
+- Postman
+- Newman
 
-•	Newman
-# Prerequisite:
-•	Node Js
+### **Prerequisite:**
+- Node Js
+- Newman
+- Newman Html Report Library
 
-•	Newman
-# Installation
-Postman: If you haven't already, download and install Postman
-   
-https://www.postman.com/downloads/  
-3.	Clone the repository:
+### **Installation**
 
-https://github.com/SadiaSarowar/API_Testing-with-Postman-Newman-Report/tree/main.git
+1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
+2. Clone the repository:
+ ```console 
+  git clone https://github.com/SadiaSarowar/API_Testing-with-Postman-Newman-Report/tree/main.git
+```
 
 
 

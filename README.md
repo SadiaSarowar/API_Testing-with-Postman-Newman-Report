@@ -376,3 +376,5 @@ newman run Practice.postman_collection.json -e Practice.postman_environment.json
 ```console 
 newman run Practice.postman_collection.json -e Practice.postman_environment.json -r cli,htmlextra
 ```
+## Newman Report Summary:
+![image](https://github.com/SadiaSarowar/API_Testing-with-Postman-Newman-Report/assets/108391319/7bd6f1cb-cb06-4d0a-bfa4-5898a95f757c)

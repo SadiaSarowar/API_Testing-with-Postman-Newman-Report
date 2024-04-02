@@ -378,3 +378,9 @@ newman run Practice.postman_collection.json -e Practice.postman_environment.json
 ```
 ## Newman Report Summary:
 ![image](https://github.com/SadiaSarowar/API_Testing-with-Postman-Newman-Report/assets/108391319/7bd6f1cb-cb06-4d0a-bfa4-5898a95f757c)
+![image](https://github.com/SadiaSarowar/API_Testing-with-Postman-Newman-Report/assets/108391319/46fb21ec-8f8f-434d-ad54-ce8ae02bc21a)
+![image](https://github.com/SadiaSarowar/API_Testing-with-Postman-Newman-Report/assets/108391319/3d5b3df2-d4a0-4c8a-91c4-7c9557e144c2)
+![image](https://github.com/SadiaSarowar/API_Testing-with-Postman-Newman-Report/assets/108391319/61c66d76-31c6-4341-b64a-8c5e97bba76c)
+
+
+

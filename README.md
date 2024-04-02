@@ -367,4 +367,12 @@ pm.test("Booking Deleted successfully", function () {
     pm.expect(pm.response.code).to.equal(404);
 });
 ```
-
+## Run Command:  
+- Run Command for Console: 
+```console 
+newman run Practice.postman_collection.json -e Practice.postman_environment.json
+```
+- Run Command for Report: 
+```console 
+newman run Practice.postman_collection.json -e Practice.postman_environment.json -r cli,htmlextra
+```
